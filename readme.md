@@ -1,4 +1,3 @@
-````markdown
 # Cyber Incidents Reporter 🇹🇷
 
 An automated web scraper for extracting cyber incident reports related to Turkey from [csidb.net](https://www.csidb.net). It logs in via Playwright, filters incidents by location, and scrapes paginated results using BeautifulSoup and Requests.
@@ -113,4 +112,5 @@ Let me know if you'd like:
 
 I can help generate those too.
 ```
+
 
