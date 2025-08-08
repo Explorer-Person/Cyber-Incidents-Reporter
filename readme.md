@@ -55,7 +55,7 @@ with your actual login credentials for [csidb.net](https://www.csidb.net).
 ### 2. Run the scraper
 
 ```bash
-python your_script.py
+python index.py
 ```
 
 The script will:
@@ -113,3 +113,4 @@ Let me know if you'd like:
 
 I can help generate those too.
 ```
+
